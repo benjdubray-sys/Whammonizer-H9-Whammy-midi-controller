@@ -27,7 +27,7 @@ and communicates via **MIDI DIN**.
 - LEDs synchronized with the selected preset
 
 ### 🔀 Mode Switching
-- Long press **FS1 + FS4 (2 seconds)**:
+- Long press **FS1 + FS5 (2 seconds)**:
   - toggles between **H9 Mode** and **Whammy Mode**
   - fast LED blinking confirms the mode change
   - LCD message: `Mode: H9` or `Mode: Whammy`
