@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="200mm"
+   height="120mm"
+   viewBox="0 0 200 120"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg">
+
+  <!-- ========================= -->
+  <!-- CALQUE 1 : LOGO PRINCIPAL -->
+  <!-- ========================= -->
+  <g id="logo_whammonizer">
+    <text
+      x="100"
+      y="30"
+      text-anchor="middle"
+      font-size="18"
+      font-family="Pacifico, Brush Script MT, cursive"
+      fill="#e86aa3">
+      Whammonizer
+    </text>
+  </g>
+
+  <!-- =============================== -->
+  <!-- CALQUE 2 : TEXTE TECHNIQUE -->
+  <!-- =============================== -->
+  <g id="subtitle">
+    <text
+      x="100"
+      y="60"
+      text-anchor="middle"
+      font-size="6"
+      font-family="Montserrat, Arial, sans-serif"
+      letter-spacing="1.5"
+      fill="#666666">
+      H9 / WHAMMY MIDI CONTROLLER
+    </text>
+  </g>
+
+  <!-- ============================ -->
+  <!-- CALQUE 3 : SIGNATURE FUN -->
+  <!-- ============================ -->
+  <g id="tagline">
+    <text
+      x="100"
+      y="105"
+      text-anchor="middle"
+      font-size="8"
+      font-family="Pacifico, Brush Script MT, cursive"
+      fill="#e86aa3">
+      Get in the mood…
+    </text>
+  </g>
+
+</svg>
