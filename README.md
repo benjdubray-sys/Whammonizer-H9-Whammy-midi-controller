@@ -15,7 +15,7 @@ and communicates via **MIDI DIN**.
 
 ### 🎹 H9 Mode
 - 8 footswitches → 8 harmonizer presets
-- Each footswitch sends **4 simultaneous Control Change messages**
+- Each footswitch sends **4 simultaneous Control Change messages** currently setup on the Quadravox algorithm en the 4 different pich settings sending values to cc 22,23,27,28
 - CC values remain active after the button is pressed
 - **Preset names displayed** on the LCD
 - LEDs indicate the active preset
@@ -74,8 +74,5 @@ and communicates via **MIDI DIN**.
 ✅ Ready for enclosure integration  
 ✅ Documented for open-source sharing  
 
----
-
-## 📂 Repository Structure
 
 
